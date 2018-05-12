@@ -1,0 +1,40 @@
+_repo: The-Undersea-Tube_27609
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wessolowski, Hans Waldemar
+    alias: Wesso
+    birthdate: 1893
+    deathdate: 1947
+    gutenberg_agent_id: '32703'
+    url: http://www.gutenberg.org/2009/agents/32703
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hansen, L. Taylor (Lucile Taylor)
+    alias: Hansen, Lucile Taylor
+    birthdate: 1897
+    deathdate: 1976
+    gutenberg_agent_id: '32793'
+    url: http://www.gutenberg.org/2009/agents/32793
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2008-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Undersea Tube
+url: http://www.gutenberg.org/ebooks/27609
