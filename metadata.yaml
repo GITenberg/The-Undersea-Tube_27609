@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '32793'
     url: http://www.gutenberg.org/2009/agents/32793
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27609#The-Undersea-Tube
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
